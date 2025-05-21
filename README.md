@@ -14,7 +14,7 @@ I'm **Angus MacGyver**, but everyone just calls me **Mac**., scientist, and fiel
 - 🧪 Applied Chemistry & Physics
 - 🛠️ Creative Problem Solving
 - 🛰️ Communications & Technology
-- 🚁 Field Rescue Operations
+-
 
 ---
 

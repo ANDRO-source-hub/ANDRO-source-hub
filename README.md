@@ -4,7 +4,7 @@
 
 ### 🧠 About Me
 
-I'm **Angus MacGyver**, but everyone just calls me **Mac**. I'm a secret agent, scientist, and field operative known for solving complex problems with everyday objects. I prefer **brains over bullets**, using science, creativity, and improvisation to get out of any situation — no matter how dangerous.
+I'm **Angus MacGyver**, but everyone just calls me **Mac**., scientist, and field operative known for solving complex problems with everyday objects. I prefer **brains over bullets**, using science, creativity, and improvisation to get out of any situation — no matter how dangerous.
 
 ---
 

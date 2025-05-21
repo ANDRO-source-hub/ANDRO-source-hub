@@ -1,13 +1,25 @@
-<h1 align="center"> Hi 👋, I'm Angus MacGyver</h1>
-<h3 align="center">A passionate developer from Indonesia</h3>
+## 👨‍🔬 Angus MacGyver
 
-<!-- <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF6464&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!" alt="Typing SVG" />
-</p> -->
+> *"When you have to make do, make it MacGyver."*
+
+### 🧠 About Me
+
+I'm **Angus MacGyver**, but everyone just calls me **Mac**. I'm a secret agent, scientist, and field operative known for solving complex problems with everyday objects. I prefer **brains over bullets**, using science, creativity, and improvisation to get out of any situation — no matter how dangerous.
 
 ---
 
-### 🛠️ Languages and Tools:
+### 🧰 Skills
+
+- 🔧 Engineering & Electronics
+- 🧪 Applied Chemistry & Physics
+- 🛠️ Creative Problem Solving
+- 🛰️ Communications & Technology
+- 🚁 Field Rescue Operations
+
+---
+
+### 🛠️ Languages & Technologies
+
 <p align="left">
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white" />
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -19,10 +31,19 @@
 
 ---
 
-### 📊 GitHub Stats:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=johnDoe&show_icons=true&theme=tokyonight" alt="johnDoe" />
-</p>
+### 🌍 Location
+📍 Los Angeles, USA
+
+---
+
+### 📫 Contact
+- 📧 Email: mac@phoenixfoundation.org  
+- 🧰 Organization: Phoenix Foundation
+
+---
+
+### 🎖️ Motto
+> "Use what you have, not what you wish you had."
 
 ---
 

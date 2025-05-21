@@ -9,10 +9,12 @@
 
 ### 🛠️ Languages and Tools:
 <p align="left">
-  <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript" />
-  <img src="https://img.shields.io/badge/-React-blue?style=flat-square&logo=react" />
-  <img src="https://img.shields.io/badge/-Kotlin-orange?style=flat-square&logo=kotlin" />
-  <img src="https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb" />
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-IoT-00ADD8?style=flat-square&logo=raspberrypi&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" />
 </p>
 
 ---
